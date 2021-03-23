@@ -1,0 +1,15 @@
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/switchBordNew.deps.json
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/switchBordNew.runtimeconfig.json
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/switchBordNew.runtimeconfig.dev.json
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/switchBordNew.dll
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/ref/switchBordNew.dll
+/Users/srisaiachyutha/Projects/switchBordNew/bin/Debug/net5.0/switchBordNew.pdb
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.csprojAssemblyReference.cache
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.AssemblyInfoInputs.cache
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.AssemblyInfo.cs
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.csproj.CoreCompileInputs.cache
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.dll
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/ref/switchBordNew.dll
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.pdb
+/Users/srisaiachyutha/Projects/switchBordNew/obj/Debug/net5.0/switchBordNew.genruntimeconfig.cache
